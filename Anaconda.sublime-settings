@@ -1,0 +1,21 @@
+{
+  "anaconda_linting_behaviour": "load-save",
+  "pep8_ignore":
+    [
+      // "E309",
+      // "E111",
+      // "E114",
+      // "E116",
+      // "E121",
+      // "E203",
+      // "E221",
+      // "E225",
+      // "E231",
+      // "E261",
+      // "E302",
+      // "E303",
+      // "E305",
+      // "E501",
+      "E701" // multiple statements on one line
+    ]
+}
